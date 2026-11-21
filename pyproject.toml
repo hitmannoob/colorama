@@ -65,4 +65,4 @@ include = [
 
 [tool.pytest.ini_options]
 testpaths = ["colorama/tests"]
-python_files = ["*_test.py"]
+python_files = ["*_test.py", "test_*.py"]
