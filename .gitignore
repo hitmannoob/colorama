@@ -2,6 +2,7 @@
 *.egg-info
 .coverage
 .tox/
+.pytest_cache/
 /MANIFEST
 /build/
 /dist/
